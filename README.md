@@ -50,4 +50,4 @@ enter streamlit run main.py and enter localhost will be open then u upload the i
 
 
 ## files:
-https://drive.google.com/file/d/1jqy30b6b8n4VmqMjn8BOLXl-emf0VEj7/view?usp=sharing
+https://drive.google.com/file/d/1WSLcNFGhaLQP5PtrBrjvfmgVwoJjG_Gg/view?usp=sharing
