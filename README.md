@@ -22,9 +22,10 @@ enter streamlit run main.py and enter localhost will be open then u upload the i
 
 ## Screenshots of the output
 
-1)![Screenshot 2024-04-22 141646](https://github.com/Ruksana-begum/PlantDiseaseDetection-MP/assets/127771632/23384f40-f284-416c-8fdc-1abaec1bbef3)
+# 1.Now we will observe some of the images that are their in our dataset.
+![Screenshot 2024-04-22 141646](https://github.com/Ruksana-begum/PlantDiseaseDetection-MP/assets/127771632/23384f40-f284-416c-8fdc-1abaec1bbef3)
 
-Now we will observe some of the images that are their in our dataset.
+# 2. Sample input data classes
 ![image-1](https://github.com/Ruksana-begum/PlantDiseaseDetection-MP/assets/127771632/39e51907-b585-4e60-97e4-c5eb4463546b)
 
 2. Sample input data classes
