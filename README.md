@@ -9,7 +9,8 @@ Trained Model Link: [[https://drive.google.com/file/d/1i466c4XOs048Q54EPCqgzoG8z
 
 # here we used google Collab firstly login collab and create a folder next paste the code in cells line by line after 
 at point of  kaggle_credentials:Firstly create kaggle account and in settings section u will findout json file u need to upload kaggle.json file which is available in ur account and run cells again same way
-Finally at imagepath first u need to upload all images in ur drive ![alt text](drive.png) and run after that 
+Finally at imagepath first u need to upload all images in ur drive ![drive](https://github.com/Ruksana-begum/PlantDiseaseDetection-MP/assets/127771632/7884362d-1f0c-48d1-801b-1e525f58ed53)
+ and run after that 
 
 
 ## After that open the main.py file in and change the path and open after that enter all the required packages into the system
