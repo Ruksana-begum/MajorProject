@@ -49,4 +49,5 @@ enter streamlit run main.py and enter localhost will be open then u upload the i
 ![image-8](https://github.com/Ruksana-begum/PlantDiseaseDetection-MP/assets/127771632/e3d4b751-d983-4810-8825-28ff803e602c)
 
 
-
+## files:
+https://drive.google.com/file/d/1jqy30b6b8n4VmqMjn8BOLXl-emf0VEj7/view?usp=sharing
