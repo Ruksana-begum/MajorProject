@@ -22,32 +22,32 @@ enter streamlit run main.py and enter localhost will be open then u upload the i
 
 ## Screenshots of the output
 
-# 1.Now we will observe some of the images that are their in our dataset.
+## 1.Now we will observe some of the images that are their in our dataset.
 ![Screenshot 2024-04-22 141646](https://github.com/Ruksana-begum/PlantDiseaseDetection-MP/assets/127771632/23384f40-f284-416c-8fdc-1abaec1bbef3)
 
-# 2. Sample input data classes
+## 2. Sample input data classes
 ![image-1](https://github.com/Ruksana-begum/PlantDiseaseDetection-MP/assets/127771632/39e51907-b585-4e60-97e4-c5eb4463546b)
 
-2. Sample input data classes
+## 3. Interface
 ![image-2](https://github.com/Ruksana-begum/PlantDiseaseDetection-MP/assets/127771632/502ee933-d457-4ad6-b353-bda974472d0c)
 
-3. Interface
+## 4.Browsing the plant leaf image
 ![image-3](https://github.com/Ruksana-begum/PlantDiseaseDetection-MP/assets/127771632/eaac07af-fa92-4627-a32a-c7a97e48aacd)
 
-4.Browsing the plant leaf image
+## 5. Visualizing the plant leaf
 ![image-4](https://github.com/Ruksana-begum/PlantDiseaseDetection-MP/assets/127771632/febaeb17-056c-498e-9a01-a1e1629ea1a9)
 
-5. Visualizing the plant leaf
+## 6. Predicting the plant leaf
 ![image-5](https://github.com/Ruksana-begum/PlantDiseaseDetection-MP/assets/127771632/d2a75574-55d8-4045-b83d-175776f02e97)
 
-6. Predicting the plant leaf
+## 7. Validating the Model
 ![image-6](https://github.com/Ruksana-begum/PlantDiseaseDetection-MP/assets/127771632/0131c2e9-7d1c-4e6e-a786-8ba227655c72)
 
-7. Validating the Model
+## 8. Comparison of Algorithms
 ![image-7](https://github.com/Ruksana-begum/PlantDiseaseDetection-MP/assets/127771632/e060242c-7f14-48a6-abdd-8eb3f65eaa2d)
 
 ![image-8](https://github.com/Ruksana-begum/PlantDiseaseDetection-MP/assets/127771632/e3d4b751-d983-4810-8825-28ff803e602c)
 
-8. Comparison of Algorithms
+
 
 
