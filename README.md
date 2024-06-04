@@ -50,4 +50,3 @@ enter streamlit run main.py and enter localhost will be open then u upload the i
 
 
 
-
